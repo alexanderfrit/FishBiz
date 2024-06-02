@@ -1,6 +1,6 @@
 # FishBiz
 
-![FishBiz Logo](path/to/logo.png)
+![FishBiz Logo](src\assets\images\Сherry.png)
 
 ## Anggota Kelompok
 - Abednego Cahyo
